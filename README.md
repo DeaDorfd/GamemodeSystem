@@ -3,7 +3,7 @@ A gamemode system that puts you in certain gamemodes faster.
 
 ## How to Install?
 
-1. Download the plugin on SpigotMC and put it in your plugins folder. 
+1. Download the plugin on [SpigotMC](https://www.spigotmc.org/resources/gamemode-system.67032/) and put it in your plugins folder. 
 2. restart your server. 
 3. Have fun :)
 
