@@ -1,0 +1,8 @@
+name: GameMode-System
+version: 3.0
+author: DeaDorfd
+main: me.deadorfd.gamemodesystem.GamemodeSystem
+
+commands:
+    Gamemode:
+      aliases: [gm]

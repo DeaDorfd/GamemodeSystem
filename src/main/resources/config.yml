@@ -1,0 +1,28 @@
+#Variables: %player% %gamemode% %command% %link%
+Prefix: "&8[&bGamemode&8] &7"
+
+# If this is enabled, you will be notified when a new version is released.
+Check for Updates: true
+
+Messages:
+    # This message comes up when you have 'Check for Updates' on. 
+    Notify on Join: "§7This Plugin has an §2Update &7look at this page >&6 %link%"
+    
+    # Messages for Commands
+    MustPlayer: "You must a Player."
+    WrongCommand: "&cWrong &7Command. Please use &8/%command%"
+    NoPermission: "You have &cno &7right to do that!"
+    NoPlayerFound: "The specified player: &6%player% is &cnot &7online!"
+    GamemodeSet: "You were placed in the &6%gamemode% &7mode."
+    GamemodeSetOther: "You have set &6%player% &7to &6%gamemode% &7mode."
+
+Permissions:
+    Admin: "system.admin"
+    Gamemode: "system.gamemode"
+    Gamemode Other: "system.gamemode.other"
+    
+Gamemodes:
+    Survival: "survival"
+    Creative: "creative"
+    Adventure: "adventure"
+    Spectator: "spectator"
